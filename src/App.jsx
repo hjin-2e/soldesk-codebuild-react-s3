@@ -6,7 +6,7 @@ export default function App() {
   return (
     <main className="page">
       <section className="panel">
-        <div className="badge">AWS CodeBuild + CodeDeploy</div>
+        <div className="badge">AWS CodeBuild + CodeDeploy v2</div>
 
         <h1>🚀 EC2 Nginx 배포 성공</h1>
 
